@@ -1,2 +1,9 @@
 # All Aqua's projects
-!D
+## Structure of repository:
+* Main folder named as project.
+   * Folder with install data _(e.g. setup.exe)._
+   * Folder with source of project to edit it.
+   
+## Projects, which ready to use:
+  * ### [BrainTrain](https://github.com/AquaVG/BrainTrain) 
+  * ### [Clipboard Logger](https://github.com/AquaVG/ClipboardLogger)
