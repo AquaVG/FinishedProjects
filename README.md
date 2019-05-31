@@ -1,5 +1,1 @@
-# FinishedProjects
-
-Include: setup file; source of project in another folder;
-
-Projects: BrainTrain v1.2
+# All Aqua's projects
